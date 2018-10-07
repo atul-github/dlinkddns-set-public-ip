@@ -1,0 +1,17 @@
+{
+  "name": "dlinkddns-set-public-ip",
+  "version": "1.0.0",
+  "description": "This script set public IP for dlinkddns service",
+  "engines": {
+    "node": ">=6"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "request": "^2.88.0",
+    "cookie": "^0.2.2",
+    "public-ip": "^2.4.0"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
