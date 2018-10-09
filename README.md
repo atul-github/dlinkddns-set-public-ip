@@ -18,9 +18,10 @@ This is nodejs utility written in JavaScript language.
 * On command line, run this utlity as shown below
 
 ```
+$ npm install --no-optional
 $ node index.js
 ```
 
-You should configure this utility as part of crone job too which runs every 5 minutes or so.
+You should configure this utility as part of crone job as well.
 
 
